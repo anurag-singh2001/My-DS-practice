@@ -1,2 +1,2 @@
-# My-gfg-practice
-In this, I will be adding my Geeks for Geeks practice questions in c++
+# My-DS-practice
+In this, I will be adding my Data Structure practice questions in c++
